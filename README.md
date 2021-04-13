@@ -1,10 +1,10 @@
-# Share code vòng quay lì xì 2020
+# Share code vòng quay lì xì 2022
 Tết thấy vui vui nên ngẫu hứng viết một con web tặng mọi người.
 Mình dùng `Winwheel.js` để làm vòng quay và `sweetalert.js` để làm popup 
 ## Demo
 Anh em xem demo ở đây: [Vòng quay lì xì](https://sharescript.net/demo/vong-quay-li-xi-2020-by-GrouSrlpPrsc/)
 
-Lưu ý pass mở khoá vòng quay là "mycode"
+Lưu ý pass mở khoá vòng quay là "s3hunhdzz"
 ## Ý tưởng và chức năng
 Ý tưởng thực ra là dành cho điện thoại. Sau khi truy cập vào web, nhập pass rồi mình sẽ đưa cho mấy đứa con nít quay, mỗi đứa sẽ được quay một số lần nhất định mình đã setup trước, sau khi quay hết sẽ yêu cầu nhập pass(thực ra view source là thấy cmn pass luôn, có thể obfuscated tí cho vui). Phần cài đặt bên dưới có lịch sử lì xì và tổng số tiền đã mất...
 
@@ -18,7 +18,7 @@ Bộ html nên ae up lên host hoặc save vô máy rồi bật ra
 
 Tuỳ chỉnh css ở `css/custom.css`
 ### Chỉnh sửa vòng quay "`index.html`"
-Anh em có thể sửa ảnh 2020 để dùng cho nhiều năm sau, đường dẫn của nó là `img/hea2.png` ở dòng 28 `index.html`
+Anh em có thể sửa ảnh 2022 để dùng cho nhiều năm sau, đường dẫn của nó là `img/hea2.png` ở dòng 28 `index.html`
 
 Tiếp đến có thể sửa nhạc "Vỗ tay", "Mất lượt", "Đang quay" ở dòng 70 71 72 `index.html`
 
